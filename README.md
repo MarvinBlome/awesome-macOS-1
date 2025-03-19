@@ -217,6 +217,7 @@
 - [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
 - [MeetingBar](https://meetingbar.onrender.com) - Your meetings in MacOS status bar [![Open-Source Software][OSS Icon]](https://github.com/leits/MeetingBar) ![Freeware][Freeware Icon]
+- [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS: Gantt Charts, Kanban Boards, Mindmaps, AI Project Generation and more. 
 - [MenubarX](https://MenubarX.app) - A powerful menu bar browser.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - An incredible task management platform for Mac, iPad, and iPhone.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - Perfect for collecting information, outlining ideas, adding structure to any sort of writing, and much more.
